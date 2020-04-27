@@ -14,4 +14,7 @@ public class Admin extends Person {
     public ArrayList<Request> getAllRequests() {
         return allRequests;
     }
+    public void func(){
+        System.out.println("Hello World!");
+    }
 }

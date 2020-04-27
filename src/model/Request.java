@@ -1,4 +1,4 @@
-package newnew;
+package model;
 
 public class Request {
     private String requestId;

@@ -1,4 +1,4 @@
-package newnew;
+package model;
 
 public enum RequestType {
     REGISTER_SELLER,
